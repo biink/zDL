@@ -1,0 +1,8 @@
+<?php
+
+// Import necessary files
+require(__DIR__ . '/zdl.php');
+
+// Create new instance
+$zdl = new ZDL();
+$zdl->checkForDownload();
