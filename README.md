@@ -31,6 +31,7 @@ That's all! Now you can generate your downloads. Read the API section to know ho
 ---
 	
 - `getLink( $downloadName )` > call this method to get a download link, specified by the download name
+
 	* `{string} downloadName` - the download name
 
 ---
