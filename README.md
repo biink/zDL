@@ -1,5 +1,4 @@
 # zDL
----
 
 zDL is a small framework that allows you to generate download links for the files placed on your server.
 You just have to set downloads you want and get corresponding download links, zDL will manage your downloads.
