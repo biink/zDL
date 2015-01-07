@@ -1,0 +1,22 @@
+{
+    "name": "odyceus/zDL",
+    "description": "A PHP simple & powerful download tool.",
+    "type": "framework",
+    "keywords": [
+        "zdl",
+        "dl",
+        "download",
+    ],
+    "homepage": "https://github.com/odyceus/zdl/",
+    "authors" : [{
+        "name": "odyceus",
+        "email": "paulguzdariviere@gmail.com"
+    }],
+    "license": "GPL",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "files": [ "zDL/zdl.php" ]
+    }
+}
